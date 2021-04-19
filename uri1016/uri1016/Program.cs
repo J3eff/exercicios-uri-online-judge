@@ -6,6 +6,7 @@ namespace uri1016
     {
         static void Main(string[] args)
         {
+            //link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1016
             int distanciaKm = int.Parse(Console.ReadLine());
 
             int tempo = 2 * distanciaKm;
