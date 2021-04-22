@@ -5,8 +5,8 @@
 
 <h3> 📌 O que é URI Online Judge </h2>
 
-<h5 align="center">
-<a href="https://www.urionlinejudge.com.br/info-exame/"> Exame </a> |  <a href="http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/07/portal-do-rs-ajuda-alunos-resolver-problemas-de-programacao-de-casa.html"> Globo </a> 
+<h5>
+<a href="https://www.urionlinejudge.com.br/info-exame/"> Exame </a> | <a href="http://g1.globo.com/rs/rio-grande-do-sul/noticia/2013/07/portal-do-rs-ajuda-alunos-resolver-problemas-de-programacao-de-casa.html"> Globo </a> 
 </h5>
 
 <p>Resolva problemas usando +10 linguagens de programação e concorra com outros alunos! Como um desafio, <br> melhore sua classificação resolvendo o máximo de problemas que puder!</p>
