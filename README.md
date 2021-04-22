@@ -2,7 +2,7 @@
 
 <ul>
   <li>Exercicios de lógica realizados dentro da plataforma <a href="https://www.urionlinejudge.com.br/judge/pt">URI Online Judge</a> </li>
-  <li>Todos os exercicios estão com o mesmo nome da plataforma para que fique facil a identificação, o objetivo deste <br> exercicios é ver como a minha lógica  para resolver pequenos problemas.   </li>
+  <li>Todos os exercicios estão com o mesmo nome da plataforma para que fique facil a identificação, o objetivo deste <br> exercicios é ver como esta a minha lógica  para resolver pequenos problemas.</li>
 </ul>
 
 <h2> 📌 O QUE É URI ONLINE JUDGE </h2>
